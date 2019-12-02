@@ -28,11 +28,7 @@ void loop()
 
   }
 
-    
-
-   
    //delay(5); // Wait 10 milliseconds for next reading
-
 }
 
 int frequency(char note) 
